@@ -1,0 +1,45 @@
+.inline_block {
+    vertical-align: top;
+    background-color: #373738;
+    /* padding-left: 50%;
+    padding-right: 50%; */
+    color: white;
+    width: 100%;
+}
+
+.inline{
+    display: inline;
+    margin: 30px;
+}
+
+.logo {
+    /* width: 10%;
+    padding: 1%; */
+}
+
+.navigation {
+    width: 73%;
+    margin-left: auto;
+}
+
+.heroimage {
+    margin-left: 40%;
+    margin-right: 40%;
+    
+}
+
+.footer {
+    background-color: #373738;
+    padding-left: 50%;
+    padding-right: 50%;
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+}
+
+.button {
+    margin-left: 50%;
+    margin-right: 50%;
+    background-color: #373738;
+    color: white;
+}
